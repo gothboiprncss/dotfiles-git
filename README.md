@@ -2,7 +2,7 @@
 
 **_distro_** = arch-linux
 
-**_music-player_** = spicetify + everforest-mid-dark-theme
+**_music-player_** = spotify-launcher + spicetify + everforest-mid-dark-theme
 
 **_terminal_** = kitty
 
