@@ -1,4 +1,7 @@
 # **My personal hyprland + everforest dotfiles**
+![Screenshot_1](https://i.imgur.com/8P3FqPo.png)
+
+![Screenshot_2](https://i.imgur.com/casbR02.png)
 
 **_distro_** = arch-linux
 
@@ -44,6 +47,3 @@ I'm also adding a wallpaper that I use.
 
 _This config is made for an **Nvidia GPU** since I have RTX 4070 TI. If you want it to fit for something else you will have to deleate **Nvidia specific env variables form hyprland.conf.**_
 
-![Screenshot_1](https://i.imgur.com/8P3FqPo.png)
-
-![Screenshot_2](https://i.imgur.com/casbR02.png)
