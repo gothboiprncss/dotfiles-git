@@ -45,5 +45,5 @@
 
 I'm also adding a wallpaper that I use.
 
-_This config is made for an **Nvidia GPU** since I have RTX 4070 TI. If you want it to fit for something else you will have to deleate **Nvidia specific env variables form hyprland.conf.**_
+_This config is made for an **Nvidia GPU** since I have RTX 4070 TI. If you want it to fit for something else you'll have to delete **Nvidia specific env variables form hyprland.conf.**_
 
