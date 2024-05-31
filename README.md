@@ -21,6 +21,12 @@ Dependencies:
 sudo pacman -S hyprland spotify-launcher kitty neovim nemo ranger fish wofi waybar mvp neofetch swaylock sddm
 yay -S spicetify-cli cava vscodium swww
 ```
+For the pokemon thingy in terminal install: 
+```
+yay -S pokemon-colorscripts
+```
+If you wish to **_not use it_**, don't install the package and **_remove the second line from_** [**_config.fish_**](https://github.com/gothboiprncss/dotfiles-git/blob/main/fish/config.fish).
+
 Copying the dotfiles:
 ```
 git clone https://github.com/gothboiprncss/dotfiles-git.git
