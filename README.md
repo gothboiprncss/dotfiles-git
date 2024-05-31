@@ -8,10 +8,9 @@ This repo stores **.dotfiles** that I use at the moment.
 
 ## Preview
 
+https://github.com/gothboiprncss/dotfiles-git/assets/163460517/aa1d2b97-e1b3-42d1-8879-f549e0d42dda
+
 ![Screenshot_1](https://i.imgur.com/8P3FqPo.png)
-
-
-
 
 ## Installation
 
