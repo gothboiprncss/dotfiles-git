@@ -5,7 +5,11 @@ This repo stores **.dotfiles** that I use at the moment.
 
 __Song__ used in showcase is [__Asleep Atop An Atom__](https://soundcloud.com/lapse/asleepatopanatom) by **_LLAAPPSSEE_**.
 
-https://github.com/gothboiprncss/dotfiles-git/assets/163460517/aa1d2b97-e1b3-42d1-8879-f549e0d42dda
+
+
+https://github.com/gothboiprncss/dotfiles-git/assets/163460517/768dc4fa-69eb-4074-8528-d4cf71dbe1ee
+
+
 
 ![Screenshot_1](https://i.imgur.com/8P3FqPo.png)
 
