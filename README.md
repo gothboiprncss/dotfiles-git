@@ -1,12 +1,9 @@
 # **My personal hyprland + everforest dotfiles**
 This repo stores **.dotfiles** that I use at the moment. 
 
-
-
-
-
-
 ## Preview
+
+__Song__ used in showcase is [__Asleep Atop An Atom__](https://soundcloud.com/lapse/asleepatopanatom) by **_LLAAPPSSEE_**.
 
 https://github.com/gothboiprncss/dotfiles-git/assets/163460517/aa1d2b97-e1b3-42d1-8879-f549e0d42dda
 
