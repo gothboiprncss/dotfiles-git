@@ -66,14 +66,6 @@
     "hyprland/language": {
         "format": "<span foreground=\"#A7C080\">󰌌</span> {short} <span foreground=\"#3D484D\">|</span>"
     },
-    "keyboard-state": {
-        "capslock": true,
-        "format": " <span foreground=\"#A7C080\">󰪛</span> {icon}",
-        "format-icons": {
-            "locked": "",
-            "unlocked": ""
-        }
-    },
     "disk": {
         "interval": 30,
         "format": "<span foreground=\"#A7C080\" weight=\"bold\">/</span> {percentage_used}% ",
