@@ -18,7 +18,7 @@
         "active-only": false
     },
     "hyprland/window": {
-        "format": "<span foreground=\"#A7C080\"> </span> {}",
+        "format": "<span foreground=\"#A7C080\">🐈</span> {}",
         "max-length": 100
     },
     "clock": {
@@ -36,9 +36,9 @@
         "tooltip-format": "Brightness"
     },
     "pulseaudio": {
-        "format": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\">{icon}</span> {volume}% ",
-        "format-bluetooth": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\"></span> {volume}% ",
-        "format-muted": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\"></span> ",
+        "format": "<span foreground=\"#3D484D\"></span><span foreground=\"#A7C080\">{icon}</span> {volume}% ",
+        "format-bluetooth": "<span foreground=\"#3D484D\"></span> <span foreground=\"#A7C080\"></span> {volume}% ",
+        "format-muted": "<span foreground=\"#3D484D\"></span> <span foreground=\"#A7C080\"></span> ",
         "format-icons": {
             "headphone": "",
             "default": [
@@ -75,7 +75,7 @@
         "format": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\" weight=\"bold\">CPU</span> {usage}% "
     },
     "memory": {
-        "format": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\" weight=\"bold\">RAM</span> {}% "
+        "format": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\" weight=\"bold\">RAM</span> {}%"
     },
     "custom/wlogout": {
         "format": "⏻",
