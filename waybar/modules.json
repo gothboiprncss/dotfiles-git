@@ -22,8 +22,8 @@
         "max-length": 100
     },
     "clock": {
-        "format": "{:%H:%M}",
-        "format-alt": "{:%a, %d. %b %Y - %H:%M}"
+        "format": "({:%H~%M})",
+        "format-alt": "/{:%d %b %Y = %H:%M}/"
     },
     "backlight": {
         "device": "intel_backlight",
@@ -78,7 +78,7 @@
         "format": "<span foreground=\"#3D484D\">|</span> <span foreground=\"#A7C080\" weight=\"bold\">RAM</span> {}%"
     },
     "custom/wlogout": {
-        "format": "⏻",
+        "format": "(>ᴗ•)",  
         "on-click": "wlogout",
         "tooltip": false
     }
