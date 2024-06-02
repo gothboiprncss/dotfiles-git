@@ -7,11 +7,10 @@ __Song__ used in showcase is [__Asleep Atop An Atom__](https://soundcloud.com/la
 
 
 
-https://github.com/gothboiprncss/dotfiles-git/assets/163460517/768dc4fa-69eb-4074-8528-d4cf71dbe1ee
 
 
 
-![Screenshot_1](https://i.imgur.com/8P3FqPo.png)
+
 
 ## Installation
 
