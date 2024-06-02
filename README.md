@@ -18,8 +18,8 @@ https://github.com/gothboiprncss/dotfiles-git/assets/163460517/768dc4fa-69eb-407
 Dependencies:
 
 ```bash
-sudo pacman -S hyprland spotify-launcher kitty neovim nemo ranger fish wofi waybar mvp neofetch swaylock sddm
-yay -S spicetify-cli cava vscodium swww
+sudo pacman -S hyprland kitty neovim nemo ranger fish wofi waybar mvp neofetch swaylock sddm
+yay -S spotify-player cava vscodium swww
 ```
 For the pokemon thingy in terminal install: 
 ```
