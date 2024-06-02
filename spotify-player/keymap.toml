@@ -1,0 +1,78 @@
+[[keymaps]]
+command = "NextTrack"
+key_sequence = "right"
+[[keymaps]]
+command = "PreviousTrack"
+key_sequence = "left"
+[[keymaps]]
+command = "ResumePause"
+key_sequence = "space"
+[[keymaps]]
+command = "Repeat"
+key_sequence = "r"
+[[keymaps]]
+command = "VolumeUp"
+key_sequence = "="
+[[keymaps]]
+command = "VolumeDown"
+key_sequence = "-"
+[[keymaps]]
+command = "SeekForward"
+key_sequence = "."
+[[keymaps]]
+command = "SeekBackward"
+key_sequence = ","
+[[keymaps]]
+command = "SelectNextOrScrollDown"
+key_sequence = "down"
+[[keymaps]]
+command = "SelectPreviousOrScrollUp"
+key_sequence = "up"
+[[keymaps]]
+command = "ChooseSelected"
+key_sequence = "enter"
+[[keymaps]]
+command = "AddSelectedItemToQueue"
+key_sequence = "q"
+[[keymaps]]
+command = "FocusNextWindow"
+key_sequence = "tab"
+[[keymaps]]
+command = "FocusPreviousWindow"
+key_sequence = "backtab"
+[[keymaps]]
+command = "SwitchDevice"
+key_sequence = "d"
+[[keymaps]]
+command = "SearchPage"
+key_sequence = "s"
+[[keymaps]]
+command = "BrowseUserPlaylists"
+key_sequence = "p"
+[[keymaps]]
+command = "BrowseUserSavedAlbums"
+key_sequence = "a"
+[[keymaps]]
+command = "BrowseUserFollowedArtists"
+key_sequence = "A"
+[[keymaps]]
+command = "TopTrackPage"
+key_sequence = "t"
+[[keymaps]]
+command = "LikedTrackPage"
+key_sequence = "l"
+[[keymaps]]
+command = "LyricPage"
+key_sequence = "C-l"
+[[keymaps]]
+command = "LibraryPage"
+key_sequence = "h"
+[[keymaps]]
+command = "BrowsePage"
+key_sequence = "b"
+[[keymaps]]
+command = "Queue"
+key_sequence = "z"
+[[keymaps]]
+command = "PreviousPage"
+key_sequence = "backspace"
